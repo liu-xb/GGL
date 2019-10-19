@@ -1,0 +1,17 @@
+# net: "train-parts-server.prototxt"
+net: "cls.prototxt"
+test_iter: 200
+test_interval: 100000000
+base_lr: 3e-4
+test_initialization: false
+lr_policy: "step"
+gamma: 0.8
+stepsize: 6000#00
+display: 5000
+max_iter: 50000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 5000
+snapshot_prefix: "./"
+solver_mode: GPU
+# average_loss: 100
