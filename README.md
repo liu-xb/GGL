@@ -1,6 +1,8 @@
 # GGL
 
-This is the code of our TIP paper "Group-Group Loss Based Global-Regional Feature Learning for Vehicle Re-Identification". If you find this help, please kindly cite our paper:<br>
+![](tip.jpg)
+
+There are codes of our TIP paper "Group-Group Loss Based Global-Regional Feature Learning for Vehicle Re-Identification". If you find this help, please kindly cite our paper:<br>
 ```
 @artical{tip-ggl-liu,
   Author = {Liu, Xiaobin and Zhang, Shiliang and Wang, Xiaoyu and Tian, Qi},<br>
